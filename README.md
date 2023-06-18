@@ -12,7 +12,7 @@ This repository contains the following sections:
 
 | No.  | Nmae                        | Resources | Demo link |
 | :--- | :------------------------------ | :--------- | :------- |
-| 1 | Fitness Website | [Resources link]{https://github.com/Krips24/FitNation-website} | [Live Demo](https://fit-nation.pages.dev/) |
+| 1 | Fitness Website | [Resources link](https://github.com/Krips24/FitNation-website) | [Live Demo](https://fit-nation.pages.dev/) |
 
 
 4. Resources
