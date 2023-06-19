@@ -8,6 +8,10 @@ This repository contains the following sections:
 
 1. Projects
 
+| No.  | Nmae                        | Resources | Demo link |
+| :--- | :------------------------------ | :--------- | :------- |
+| 1 | Fitness Website (using React) | [Resources link](https://github.com/HimeshKohad/Fit-Fusion) | [Live Demo](https://fitfusion.pages.dev/) |
+
 2. Templates
 
 | No.  | Nmae                        | Resources | Demo link |
@@ -15,9 +19,9 @@ This repository contains the following sections:
 | 1 | Fitness Website | [Resources link](https://github.com/Krips24/FitNation-website) | [Live Demo](https://fit-nation.pages.dev/) |
 
 
-4. Resources
+3. Resources
 
-5. Tools 
+4. Tools 
 
 ## Contributing
 
